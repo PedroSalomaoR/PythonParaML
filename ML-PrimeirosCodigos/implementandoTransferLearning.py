@@ -1,4 +1,4 @@
-#Implementando uma Deep Learning do zero em py
+#Implementando uma transfer Learning do zero em py
 import numpy as np
 import torch
 import torch.nn.functional as F
